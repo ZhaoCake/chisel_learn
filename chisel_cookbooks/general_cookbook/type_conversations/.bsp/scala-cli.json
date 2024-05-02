@@ -1,0 +1,16 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/usr/bin/scala-cli",
+    "bsp",
+    "--json-options",
+    "/home/zhaocake/workspace/digital_design/chisel_learn/chisel_cookbooks/general_cookbook/type_conversations/.scala-build/ide-options-v2.json",
+    "/home/zhaocake/workspace/digital_design/chisel_learn/chisel_cookbooks/general_cookbook/type_conversations/Create_UInt.scala"
+  ],
+  "version": "1.2.1",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
